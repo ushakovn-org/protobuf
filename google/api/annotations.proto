@@ -1,3 +1,7 @@
+// Loaded for Boiler.
+//    Copy path: github.com/ushakovn-org/protobuf/google/api/annotations.proto@main
+//  Source path: github.com/googleapis/googleapis/google/api/annotations.proto@main
+
 // Copyright 2015 Google LLC
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,9 +18,9 @@
 
 syntax = "proto3";
 
-package google.api;
+package api;
 
-import "google/api/http.proto";
+import "api/http.proto";
 import "google/protobuf/descriptor.proto";
 
 option go_package = "google.golang.org/genproto/googleapis/api/annotations;annotations";

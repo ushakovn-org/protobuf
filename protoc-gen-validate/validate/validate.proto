@@ -1,3 +1,7 @@
+// Loaded for Boiler.
+//    Copy path: github.com/ushakovn-org/protobuf/protoc-gen-validate/validate/validate.proto@main
+//  Source path: github.com/bufbuild/protoc-gen-validate/validate/validate.proto@main
+
 syntax = "proto2";
 package validate;
 

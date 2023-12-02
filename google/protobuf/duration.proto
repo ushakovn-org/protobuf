@@ -1,3 +1,7 @@
+// Loaded for Boiler.
+//    Copy path: github.com/ushakovn-org/protobuf/google/protobuf/duration.proto@main
+//  Source path: github.com/protocolbuffers/protobuf/src/google/protobuf/duration.proto@main
+
 // Protocol Buffers - Google's data interchange format
 // Copyright 2008 Google Inc.  All rights reserved.
 // https://developers.google.com/protocol-buffers/
@@ -30,7 +34,7 @@
 
 syntax = "proto3";
 
-package google.protobuf;
+package protobuf;
 
 option cc_enable_arenas = true;
 option go_package = "google.golang.org/protobuf/types/known/durationpb";
