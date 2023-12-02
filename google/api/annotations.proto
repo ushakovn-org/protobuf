@@ -18,7 +18,7 @@
 
 syntax = "proto3";
 
-package api;
+package google.api;
 
 import "google/protobuf/descriptor.proto";
 
